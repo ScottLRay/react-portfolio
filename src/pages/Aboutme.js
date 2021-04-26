@@ -1,7 +1,9 @@
 import React from "react";
+import Container from "../components/Container/index"
 
 function About() {
   return (
+    <Container>
     <div>
       <h2>About me</h2>
       <p>
@@ -12,6 +14,7 @@ function About() {
         goals to become an Architect of the web within 5 years.
       </p>
     </div>
+    </Container>
   );
 }
 

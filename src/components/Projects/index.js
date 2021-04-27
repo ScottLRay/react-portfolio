@@ -11,11 +11,9 @@ function ProjectCard(props) {
             <div className="card-body">
               <h5 className="card-title">{props.name}</h5>
               <p className="card-text">
-                <strong>Repo: </strong> {props.repo}
+              <a className="btn btn-primary" href={props.repo} role="button">Repo</a>
               </p>
-              <p>
-                <strong>Deployed: </strong> {props.deployed}
-              </p>
+              <a className="btn btn-primary" href={props.deployed} role="button">Deployed</a>
             </div>
           </div>
         </div>

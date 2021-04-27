@@ -33,9 +33,9 @@ function About() {
           <div className="col-6 col-sm-4">
             <div className="card">
               <header>Gmail</header>
-              {/* <a href="https://www.linkedin.com/in/scott-ray-6b01801b6/"> */}
-                <img src={Gmail} alt="icon of google mail" />
-              {/* </a> */}
+              <a href="mailto:scottlray90@gmail.com">
+                <img src={Gmail} alt="icon of google mail"  />
+              </a>
             </div>
           </div>
         </div>
@@ -43,5 +43,5 @@ function About() {
     </Container>
   );
 }
-// scottlray90@gmail.com
+
 export default About;

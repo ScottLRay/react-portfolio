@@ -32,6 +32,7 @@
   justify-content: space-evenly;
   text-align: center;
   width: 20rem;
+  height: 450px;
 }
 
 @keyframes App-logo-spin {

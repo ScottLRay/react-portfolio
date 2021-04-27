@@ -1,15 +1,23 @@
 import React from "react";
+import "./Card.css"
 
 function ProjectCard(props) {
   return (
     <>
-      <div className="card">
-        <img src={props.image} className="card-img-top" alt={props.name} />
-        <div className="card-body">
-          <h5 className="card-title">{props.name}</h5>
-          <p className="card-text">
-            
-          </p>
+      <div className="row row-1 row-sm-2 row-md-4 justify-content-center">
+        <div className="col-6 col-sm-4">
+          <div className="card">
+            <img src={props.image} className="card-img-top" alt={props.name} />
+            <div className="card-body">
+              <h5 className="card-title">{props.name}</h5>
+              <p className="card-text">
+                <strong>Repo: </strong> {props.repo}
+              </p>
+              <p>
+                <strong>Deployed: </strong> {props.deployed}
+              </p>
+            </div>
+          </div>
         </div>
       </div>
     </>

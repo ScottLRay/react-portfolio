@@ -2,21 +2,43 @@
     {
         "id": 1,
         "name": "Project 1 Life of the Party",
-        "image": "./images/life-of-the-party-screenshot.png"
+        "image": "./images/life-of-the-party-screenshot.png",
+        "repo": "https://github.com/ScottLRay/life-of-the-party",
+        "deployed": "https://scottlray.github.io/life-of-the-party/"
     },
     {
         "id": 2,
         "name": "Day Planner",
-        "image": "./images/dayplanner-screenshot.png"
+        "image": "./images/dayplanner-screenshot.png",
+        "repo": "https://github.com/ScottLRay/Day-Planner",
+        "deployed":"https://scottlray.github.io/Day-Planner/"
     },
     {
         "id": 3,
         "name": "Password Generator",
-        "image": "./images/password-screenshot.png"
+        "image": "./images/password-screenshot.png",
+        "repo": "https://github.com/ScottLRay/password-generator",
+        "deployed": "https://github.com/ScottLRay/password-generator"
     },
     {
         "id": 4,
         "name": "Project 2 Video Game Reviewer",
-        "image": "./images/Screenshot-landing-page.png"
+        "image": "./images/Screenshot-landing-page.png",
+        "repo": "https://github.com/BiggRonn/VideoGameReviewer",
+        "deployed": "https://video-game-reviewer.herokuapp.com/"
+    },
+    {
+        "id": 5,
+        "name": "react-employee-directory",
+        "image": "./images/Screenshot-of-page.png",
+        "repo": "https://github.com/ScottLRay/react-employee-directory",
+        "deployed": "https://608387f983aae90007d5d3bc--inspiring-johnson-3d7599.netlify.app/"
+    },
+    {
+        "id": 5,
+        "name": "offline-budget-tracker",
+        "image": "./images/Screenshot-budget-tracker.png",
+        "repo": "https://github.com/ScottLRay/offline-budget-tracker",
+        "deployed": "https://budget-tracker-offline-900.herokuapp.com/"
     }
 ]

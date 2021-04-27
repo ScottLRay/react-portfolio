@@ -11,13 +11,13 @@ function About() {
         <section className="card" style={{ width: '20rem' }}>
           <header>Github</header>
           <a href="https://github.com/ScottLRay">
-            <img src={Github} alt="picture of an icon of GitHub" />
+            <img src={Github} alt="icon of GitHub" />
           </a>
         </section>
         <section className="card" style={{ width: '20rem' }}>
           <header>Linkedin</header>
           <a href="https://www.linkedin.com/in/scott-ray-6b01801b6/">
-            <img src={Linkedin} alt="picture of an icon of linkedin" />
+            <img src={Linkedin} alt="icon of linkedin" />
           </a>
         </section>
       </nav>

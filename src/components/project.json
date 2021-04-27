@@ -1,0 +1,22 @@
+[
+    {
+        "id": 1,
+        "name": "Project 1 Life of the Party",
+        "image": "./src/components/assest/images/life-of-the-party-screenshot.png"
+    },
+    {
+        "id": 2,
+        "name": "Day Planner",
+        "image": "./src/components/assest/images/dayplanner-screenshot.png"
+    },
+    {
+        "id": 3,
+        "name": "Password Generator",
+        "image": "./src/components/assest/images/password-screenshot.png"
+    },
+    {
+        "id": 4,
+        "name": "Project 2 Video Game Reviewer",
+        "image": "./src/components/assest/images/Screenshot-landing-page.png"
+    }
+]

@@ -1,6 +1,6 @@
 import React from "react";
-import Github from "../components/assest/images/github-logo.png";
-import Linkedin from "../components/assest/images/linkenin-icon.png";
+import Github from "../assest/images/github-logo.png";
+import Linkedin from "../assest/images/linkenin-icon.png";
 import Container from "../components/Container/index";
 
 function About() {
@@ -8,13 +8,13 @@ function About() {
     <Container>
       <h2>Contact Me</h2>
       <nav>
-        <section className="card" style={{ width: '20rem' }}>
+        <section className="card">
           <header>Github</header>
           <a href="https://github.com/ScottLRay">
             <img src={Github} alt="icon of GitHub" />
           </a>
         </section>
-        <section className="card" style={{ width: '20rem' }}>
+        <section className="card">
           <header>Linkedin</header>
           <a href="https://www.linkedin.com/in/scott-ray-6b01801b6/">
             <img src={Linkedin} alt="icon of linkedin" />

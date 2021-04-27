@@ -9,9 +9,7 @@ class Work extends Component {
     projects
   }
 
-
   render(){
-
     return (
         <Container>
           {this.state.projects.map(projects =>(
@@ -21,7 +19,6 @@ class Work extends Component {
             name={projects.name}
             image={projects.image}
             />
-
           ))}
       </Container>
     );

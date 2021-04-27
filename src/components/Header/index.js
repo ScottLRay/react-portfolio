@@ -1,6 +1,6 @@
 import React from "react";
 import "../Header/Header.css"
-import pic from "../assest/images/pic-of-me.jpg"
+import pic from "../../assest/images/pic-of-me.jpg"
 
 function Header() {
   return (

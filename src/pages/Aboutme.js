@@ -1,21 +1,21 @@
 import React from "react";
-import Container from "../components/Container/index"
+import Container from "../components/Container/index";
 
 function About() {
   return (
     <Container>
-    <div>
-      <h3>About me</h3>
-      <p>
-        I am a seasoned Sales Associate, Learning web developing to push my
-        career even further. As an up and coming web developer I am looking to
-        learn as much as a I can to become a Web Developer Architect. I’m learning
-        full stack development right now to get into the field and setting my
-        goals to become an Architect of the web within 5 years.
-      </p>
-    </div>
+      <div>
+        <h3>About me</h3>
+        <p>
+          I am a seasoned Sales Associate looking to make a change in my career
+          path. I am currently in the process of gaining the skills and
+          knowledge necessary to get into the field of web development. My plan
+          is to continue my education with the goal of becoming a Web Developer
+          Architect within 5 years.
+        </p>
+      </div>
     </Container>
   );
 }
 
-export default About
+export default About;

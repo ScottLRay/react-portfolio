@@ -5,7 +5,7 @@ import Container from "../components/Container/index"
 function Resume() {
   return (<Container>
         <div className="card">
-          <header>Word document of Resume</header>
+          <header>Resume</header>
           <a href="https://drive.google.com/file/d/17t-qFaOgAtLic_iNeH7SWMJi_Npjlt-7/view?usp=sharing">  
           <img
                 src={ResumeMan}

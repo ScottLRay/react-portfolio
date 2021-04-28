@@ -3,9 +3,10 @@
   margin: 0;
   background-color: #2067ec;
   text-align: center;
+  padding: 10px;
 }
 
 #myself {
-  width: 150px;
-  height: 225px;
+  width: 175px;
+  height: 230px;
 }

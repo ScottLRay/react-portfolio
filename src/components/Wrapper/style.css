@@ -5,7 +5,7 @@
   display: flex;
   flex-flow: row wrap;
   padding: 10px;
-  margin: auto;
+  margin: 0 100px 0 100px;
   /* overflow: auto; */
-  width: 100%;
+  width: auto;
 }

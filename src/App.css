@@ -28,16 +28,13 @@
   color: #61dafb;
 }
 
-.card{
+.contactCard{
   justify-content: space-evenly;
   text-align: center;
   width: 320px;
   height: 350px;
   margin: 10px;
-}
-
-.container{
-  margin:auto;
+  background-color: #fff;
 }
 
 @keyframes App-logo-spin {

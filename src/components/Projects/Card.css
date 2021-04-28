@@ -1,18 +1,11 @@
-.card > .content {
-    padding-left: 1rem;
-    padding-right: 1rem;
-    font-size: 15px;
-  }
+.card {
+  justify-content: center;
+  text-align: center;
+  width: 320px;
+  height: 350px;
+  margin: 10px;
+}
 
-  .card > .img-container {
-    height: 60%;
-    overflow: hidden;
-    text-align: center;
-    background:#6CADDC;
-  }
-  .card > .img-container > img {
-    width: 60%
-  }
- .card{
-     
- }
+.row{
+  justify-content: center;
+}

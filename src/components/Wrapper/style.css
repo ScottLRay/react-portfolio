@@ -6,6 +6,6 @@
   flex-flow: row wrap;
   padding: 10px;
   margin: auto;
-  overflow: auto;
+  /* overflow: auto; */
   width: 100%;
 }

@@ -14,3 +14,4 @@ building a website to show case my skills with react.js and to show my projects
 https://github.com/ScottLRay/react-portfolio
 
 ## Deployed link
+https://gallant-nobel-f3ef3c.netlify.app/

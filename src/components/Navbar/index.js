@@ -21,7 +21,7 @@ function Navbar() {
         <ul className="navbar-nav mr-auto">
           <li className="nav-item">
             <Link className="nav-link active" to="/">
-              Home
+              About Me
             </Link>
           </li>
           <li className="nav-item">

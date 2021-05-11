@@ -7,11 +7,7 @@ function About() {
       <div>
         <h3>About me</h3>
         <p>
-          I am a seasoned Sales Associate looking to make a change in my career
-          path. I am currently in the process of gaining the skills and
-          knowledge necessary to get into the field of web development. My plan
-          is to continue my education with the goal of becoming a Web Developer
-          Architect within 5 years.
+        Front-end web developer leveraging customer service background to build a more intuitive user experience on the web. Recently earned a certificate in full stack development from the University of Arizona, with newly developed skills in JavaScript, CSS, React.js, and responsive web design. Known as an innovative problem solver passionate about developing apps, with a focus on mobile-first design and development.
         </p>
       </div>
     </Container>

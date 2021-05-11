@@ -6,10 +6,10 @@ function Resume() {
   return (<Container>
         <div className="card">
           <header>Resume</header>
-          <a href="https://drive.google.com/file/d/17t-qFaOgAtLic_iNeH7SWMJi_Npjlt-7/view?usp=sharing">  
+          <a href="https://drive.google.com/file/d/1r7Fb0xU9bHeXIsUar9M4qu5Myd8fGRnU/view?usp=sharing">  
           <img
                 src={ResumeMan}
-                alt="icon of a my an a resume together"
+                alt="icon of a man a resume together"
             />
           </a>
           </div>

@@ -16,6 +16,7 @@ function About() {
               <a href="https://github.com/ScottLRay">
                 <img src={Github} alt="icon of GitHub" />
               </a>
+              <p>https://github.com/ScottLRay</p>
             </div>
           </div>
         </div>
@@ -26,6 +27,7 @@ function About() {
               <a href="https://www.linkedin.com/in/scott-ray-6b01801b6/">
                 <img src={Linkedin} alt="icon of linkedin" />
               </a>
+              <p>https://www.linkedin.com/in/scott-ray-6b01801b6/</p>
             </div>
           </div>
         </div>
@@ -36,6 +38,7 @@ function About() {
               <a href="mailto:scottlray90@gmail.com">
                 <img src={Gmail} alt="icon of google mail"  />
               </a>
+              <p>Scottlray90@gmail.com</p>
             </div>
           </div>
         </div>

@@ -22,6 +22,8 @@ class Work extends Component {
             image={projects.image}
             repo={projects.repo}
             deployed={projects.deployed}
+            skills={projects.skills}
+            details={projects.details}
             />
           ))}
           </Wrapper>

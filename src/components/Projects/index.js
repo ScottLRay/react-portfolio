@@ -10,10 +10,10 @@ function ProjectCard(props) {
             <img src={props.image} className="card-img-top" alt={props.name} />
             <div className="card-body">
               <h5 className="card-title">{props.name}</h5>
-              <p>
               <a className="btn btn-primary" href={props.repo} role="button">Repo</a>
-              </p>
               <a className="btn btn-primary" href={props.deployed} role="button">Deployed</a>
+              <p>Technical Skills Used: {props.skills}</p>
+              <p>Description: {props.details}</p>
             </div>
           </div>
         </div>
